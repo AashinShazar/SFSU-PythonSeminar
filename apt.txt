@@ -1,0 +1,5 @@
+texlive-xetex
+texlive-generic-extra
+texlive-latex-extra
+texlive-latex-recommended
+texlive
