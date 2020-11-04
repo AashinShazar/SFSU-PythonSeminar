@@ -1,11 +1,4 @@
-# Conda environment with environment.yml
+# Welcome to the SFSU Python Seminar Repo!
+## https://mybinder.org/v2/gh/AashinShazar/SFSU-PythonSeminar/master?filepath=Seminar1.ipynb
 
-A Binder-compatible repo with an `environment.yml` file.
-
-Access this Binder by clicking the blue badge above or at the following URL:
-
-https://mybinder.org/v2/gh/AashinShazar/SFSU-PythonSeminar/master
-
-## Notes
-The `environment.yml` file should list all Python libraries on which your notebooks
-depend, specified as though they were created using the following `conda` commands:
+Here you will find the the repo containing all the seminars and datasets for the instruction. But fear not, all you need to do right now is click the link above and we can get started :)
